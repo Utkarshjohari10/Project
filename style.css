@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800px;
+}
+.top{
+    text-align: center;
+    padding: 1px 60px;
+    background-color: #11468F;
+    font-size: xx-large;
+    color: #fff;
+}
+.mid{
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px 20px 0px 0px;
+    word-spacing: 0.5px;
+}
+.features{
+    background-color: #FFB72B;
+    padding: 10px 3%;
+    font-size: x-large;
+}
+.end{
+    background-color: #11468F;
+    text-align: center;
+    color: #fff;
+    padding: 1px 7%;
+    font-size: x-large;
+}
